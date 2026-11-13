@@ -5,7 +5,7 @@ namespace App\Http\Controllers;
 use App\Models\Chirp;
 
 use Illuminate\Http\Request;
-use Illuminate\foundation\Auth\Access\AuthorizesRequests;
+use Illuminate\Foundation\Auth\Access\AuthorizesRequests;
 
 class ChirpController extends Controller
 {
